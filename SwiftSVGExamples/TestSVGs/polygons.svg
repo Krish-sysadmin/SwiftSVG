@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="344px" height="467px" viewBox="0 0 344 467" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
-    <title>polygons</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(20, 30)">
-        <g id="polygons" fill-rule="nonzero">
-            <polygon id="Star" fill="#AD1D1D" points="75.608993 119.25 28.8800655 143.816851 37.8044966 91.7834255 0 54.9331489 52.2445292 47.3415745 75.608993 0 98.973457 47.3415745 151.217986 54.9331489 113.41349 91.7834255 122.337921 143.816851"></polygon>
-            <polygon id="Polygon" stroke="#F300C4" stroke-width="12" fill="#17379A" points="231.616217 102 336.232434 178.008131 296.272595 300.991869 166.959839 300.991869 127 178.008131"></polygon>
-            <polygon id="Polygon-2" stroke="#2C2A2A" stroke-width="7" fill="#D05C5C" points="89.035578 301 136.646183 316.469623 166.071156 356.969623 166.071156 407.030377 136.646183 447.530377 89.035578 463 41.424973 447.530377 12 407.030377 12 356.969623 41.424973 316.469623"></polygon>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="344" height="467" version="1.1" viewBox="0 0 344 467"><title>polygons</title><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1" transform="translate(20, 30)"><g id="polygons" fill-rule="nonzero"><polygon id="Star" fill="#AD1D1D" points="75.609 119.25 28.88 143.817 37.804 91.783 0 54.933 52.245 47.342 75.609 0 98.973 47.342 151.218 54.933 113.413 91.783 122.338 143.817"/><polygon id="Polygon" fill="#17379A" stroke="#F300C4" stroke-width="12" points="231.616 102 336.232 178.008 296.273 300.992 166.96 300.992 127 178.008"/><polygon id="Polygon-2" fill="#D05C5C" stroke="#2C2A2A" stroke-width="7" points="89.036 301 136.646 316.47 166.071 356.97 166.071 407.03 136.646 447.53 89.036 463 41.425 447.53 12 407.03 12 356.97 41.425 316.47"/></g></g></svg>
